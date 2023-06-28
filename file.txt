@@ -1,2 +1,2 @@
 hello main
-hello master
+hello master (기능 2)
