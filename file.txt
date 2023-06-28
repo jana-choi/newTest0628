@@ -1,3 +1,4 @@
 hello main
 hello master (기능 1)
+hello master (기능 2)
 modify file
